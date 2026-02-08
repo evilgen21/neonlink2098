@@ -1,7 +1,7 @@
 # NEON LINES 2098
 Встречайте NEON LINES 2098 — современное переосмысление культовой игры Lines 98, перенесенное в футуристическую неоновую эпоху! Это не просто ремейк, а полная трансформация классического паззла с уникальной атмосферой, расслабляющим саундтреком и инновационными игровыми механиками.
 
-<img src="https://github.com/evilgen21/neonlink2098/blob/main/1.jpg" width="194" height="420">> <img src="https://github.com/evilgen21/neonlink2098/blob/main/2.jpg" width="194" height="420">> <img src="https://github.com/evilgen21/neonlink2098/blob/main/3.jpg" width="194" height="420">> <img src="https://github.com/neonlink2098/neon-link/blob/main/4.jpg" width="194" height="420">>
+<img src="https://github.com/evilgen21/neonlink2098/blob/main/1.png" width="194" height="420">> <img src="https://github.com/evilgen21/neonlink2098/blob/main/2.jpg" width="194" height="420">> <img src="https://github.com/evilgen21/neonlink2098/blob/main/3.jpg" width="194" height="420">> <img src="https://github.com/neonlink2098/neon-link/blob/main/4.jpg" width="194" height="420">>
   
 🌌 Неоновая эстетика 2098 года
 Погрузитесь в мир, где каждый элемент сияет неоновым свечением:
